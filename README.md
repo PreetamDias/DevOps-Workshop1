@@ -4,6 +4,10 @@ One Day workshop on understanding Git and Docker. Learn how Version Control Syst
 Containerization power modern industries. In this Workshop you will learn the basics of Git and Docker and start 
 harnessing the power of these two incredibly powerful and versatile tools.
 
+
+
+
+
 ## Prerequisites
 
 ### System Requirements
@@ -60,3 +64,4 @@ harnessing the power of these two incredibly powerful and versatile tools.
 | 04:00 - 04:15 | `Q & Aand Wrapping Up`                                                   |
 helooooo
 how ru
+
